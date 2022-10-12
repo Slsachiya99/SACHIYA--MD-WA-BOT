@@ -16,8 +16,8 @@ global.owner = ['94767233346']
 global.premium = ['94767233346']
 global.ownernomer = '94767233346'
 global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
+global.botname = 'SACHIYA  v1.0.0'
+global.footer = ' BLACK TIGER MD '
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
@@ -26,7 +26,7 @@ global.packname = 'ALPHA WA BOT MD'
 global.author = 'D.U.A.N.FERNANDO '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.sp = '😎'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
